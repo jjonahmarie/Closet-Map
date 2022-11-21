@@ -32,6 +32,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7E212A96292B586B0016554E /* View Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "View Model";
+			sourceTree = "<group>";
+		};
+		7E212A97292B58730016554E /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7E212A98292B587B0016554E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		7E9320202928B03100AF940D = {
 			isa = PBXGroup;
 			children = (
@@ -52,6 +73,9 @@
 			isa = PBXGroup;
 			children = (
 				7E93202C2928B03100AF940D /* Closet_MapApp.swift */,
+				7E212A98292B587B0016554E /* Model */,
+				7E212A97292B58730016554E /* View */,
+				7E212A96292B586B0016554E /* View Model */,
 				7E93202E2928B03100AF940D /* ContentView.swift */,
 				7E9320302928B03100AF940D /* Assets.xcassets */,
 				7E9320322928B03100AF940D /* Preview Content */,
